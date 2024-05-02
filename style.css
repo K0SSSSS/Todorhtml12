@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(20, 50%, 75%);
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    background-color: aqua;
+    text-shadow: 2px 2px 4px orangered;
+    width: 15%;
+}
+p{
+    background-color: rgba(120, 20, 88, .5);
+    color: aliceblue;
+    width: 30%;
+}
+a{
+    background-color: hsl(290, 50%, 50%);
+    text-decoration: none;
+    color: white;
+}
+.border{
+    border: 3px solid coral;
+    box-shadow: 2px 2px 10px rgb(255, 0, 195);
+    text-align: center;
+    margin: 20px 30px;
+}
